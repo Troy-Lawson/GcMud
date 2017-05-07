@@ -1,5 +1,5 @@
 
-public class PlayerCharacter implements Character {
+public class PlayerCharacter extends Character{
 	/*
 	 * name
 	 * class
